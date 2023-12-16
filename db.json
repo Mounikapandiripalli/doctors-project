@@ -1,0 +1,91 @@
+{
+  "doctors": [
+    {
+      "name": "Mounika",
+      "salary": "35000",
+      "gender": "female",
+      "age": "26",
+      "specialization": "cardiologist",
+      "id": 1
+    },
+    {
+      "name": "Rohith",
+      "salary": "50000",
+      "gender": "male",
+      "age": "27",
+      "specialization": "neurologist",
+      "id": 2
+    },
+    {
+      "name": "preethi",
+      "salary": "50000",
+      "gender": "female",
+      "age": "26",
+      "specialization": "dentist",
+      "id": 3
+    },
+    {
+      "name": "ravi teja",
+      "salary": "50000",
+      "gender": "male",
+      "age": "30",
+      "specialization": "ENT",
+      "id": 4
+    },
+    {
+      "name": "devi",
+      "salary": "60000",
+      "gender": "male",
+      "age": "45",
+      "specialization": "dermatology",
+      "id": 5
+    }
+  ],
+  "patients": [
+    {
+      "name": "valli",
+      "weight": "50",
+      "gender": "female",
+      "age": "21",
+      "disease": "migrane",
+      "doctor": "Rohith",
+      "id": 1
+    },
+    {
+      "name": "srija",
+      "weight": "60",
+      "gender": "female",
+      "age": "22",
+      "disease": "heart",
+      "doctor": "Mounika",
+      "id": 2
+    },
+    {
+      "name": "sravanthi",
+      "weight": "45",
+      "gender": "female",
+      "age": "21",
+      "disease": "teeth",
+      "doctor": "preethi",
+      "id": 3
+    },
+    {
+      "name": "devi",
+      "weight": "40",
+      "gender": "female",
+      "age": "22",
+      "disease": "stomachache",
+      "doctor": "ravi teja",
+      "id": 4
+    },
+    {
+      "name": "sasi",
+      "weight": "70",
+      "gender": "male",
+      "age": "25",
+      "disease": "skin",
+      "doctor": "devi",
+      "id": 5
+    }
+  ]
+}
